@@ -127,7 +127,7 @@ Users can navigate between:
 
 **Executive Overview → Fraud & Risk Analysis → Customer & Transaction Analysis**
 
-and move between the three pages using the navigation buttons.
+using the navigation buttons.
 
 ---
 
@@ -150,25 +150,33 @@ Design elements include:
 
 ## 📸 Dashboard Screenshots
 
-Dashboard screenshots are available in:
+Dashboard screenshots are available in the project's `Screenshots` folder.
 
-```text
-../Screenshots/
+### Executive Overview
 
+![Executive Overview](../Screenshots/Executive_Overview.png)
 
-Executive Overview
+### Fraud & Risk Analysis
 
-Fraud & Risk Analysis
+![Fraud & Risk Analysis](../Screenshots/Fraud_Risk_Analysis.png)
 
-Customer & Transaction Analysis
+### Customer & Transaction Analysis
 
-📁 Power BI File
+![Customer & Transaction Analysis](../Screenshots/Customer_Transaction_Analysis.png)
 
-The original Power BI .pbix file is approximately 125 MB and is therefore not uploaded through GitHub's standard web upload.
+---
+
+## 📁 Power BI File
+
+The original Power BI `.pbix` file is approximately **125 MB** and is therefore not uploaded through GitHub's standard web upload.
 
 The dashboard screenshots included in this repository provide a visual representation of the completed report.
 
-🔄 Data Flow
+---
+
+## 🔄 Data Flow
+
+```text
 Raw Credit Card Dataset
           ↓
 Python Data Cleaning
@@ -186,28 +194,26 @@ DAX Measures
 3-Page Interactive Report
           ↓
 Business Insights
-🛠️ Technologies Used
-Power BI Desktop
-Power Query
-DAX
-Data Modeling
-PostgreSQL
-Python
-👤 Author
+```
 
-Ajith Sriramoju
+---
+
+## 🛠️ Technologies Used
+
+- Power BI Desktop
+- Power Query
+- DAX
+- Data Modeling
+- PostgreSQL
+- Python
+
+---
+
+## 👤 Author
+
+**Ajith Sriramoju**
 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-GitHub: Ajith Sriramoju
-LinkedIn: Ajith Sriramoju
-
-### Now do this
-
-1. Paste the complete content into `PowerBI/README.md`.
-2. Click **Preview**.
-3. Make sure the three screenshots render correctly.
-4. Commit message:
-
-```text
-Add Power BI report documentation
+- GitHub: [Ajith Sriramoju](https://github.com/AjithSriramoju)
+- LinkedIn: [Ajith Sriramoju](https://www.linkedin.com/in/sriramojuajith/)
