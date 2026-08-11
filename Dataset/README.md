@@ -138,8 +138,9 @@ PostgreSQL Analysis
 Power BI Report
      ↓
 Business Insights
+```
 
-
+---
 
 ## 🛠️ Technologies Used
 
@@ -167,5 +168,5 @@ The same prepared data was used to generate analytical results in Python, Postgr
 
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-- GitHub: Ajith Sriramoju( https://github.com/AjithSriramoju )
-- LinkedIn: Ajith Sriramoju( https://www.linkedin.com/in/sriramojuajith/ )
+- GitHub: [Ajith Sriramoju](https://github.com/AjithSriramoju)
+- LinkedIn: [Ajith Sriramoju](https://www.linkedin.com/in/sriramojuajith/)
